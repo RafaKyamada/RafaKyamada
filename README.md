@@ -1,7 +1,16 @@
 <Div>
-  <p>
-    <img src=""
-  </p>
+
+<div>
+<p>
+<a href="https://discord.gg/R2wHctM3">
+<img src="https://github.com/RafaKyamada/RafaKyamada/blob/main/imagens/1691730813discord-icon-png.png?raw=true" width="80"></a>
+</p>
+
+
+
+
+
+
 </Div>
 
 
