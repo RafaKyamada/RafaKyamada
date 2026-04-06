@@ -1,9 +1,12 @@
 <Div>
 
-<div>
-<p>
-<a href="https://discord.gg/R2wHctM3">
-<img src="https://github.com/RafaKyamada/RafaKyamada/blob/main/imagens/1691730813discord-icon-png.png?raw=true" width="80"></a>
+
+
+<p align="left">
+  <a href="https://discord.gg/R2wHctM3">
+    <img src="https://github.com/RafaKyamada/RafaKyamada/blob/main/imagens/1691730813discord-icon-png.png?raw=true" width="35" />
+    <img src="https://img.shields.io/badge/Discord-Entrar-5865F2?logo=discord&logoColor=white" />
+  </a>
 </p>
 
 
