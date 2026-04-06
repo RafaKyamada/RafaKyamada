@@ -1,16 +1,23 @@
-## Hi there 👋
+<Div>
+  <p>
+    <img src=""
+  </p>
+</Div>
 
-<!--
-**RafaKyamada/RafaKyamada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 👋 Olá, eu sou Rafael Yamada
+
+🎓 Estudante de Desenvolvimento Full Stack no **Senac**
+
+---
+
+## 👨‍💻 Sobre mim
+
+Meu nome é **Rafael Yamada** e sou estudante do curso de **Desenvolvimento Full Stack no Senac**. Atualmente, estou em fase de aprendizado, desenvolvendo conhecimentos em **front-end e back-end**, com foco em **programação e desenvolvimento web**.
+
+Tenho interesse na área de tecnologia e busco aprimorar minhas habilidades por meio do **estudo contínuo e da prática**, com o objetivo de **crescer profissionalmente como desenvolvedor**.
+
+---
+
